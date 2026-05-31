@@ -12,5 +12,13 @@
       <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
       <enclosure url="https://github.com/Emesis-Solutions/pati-vet-releases/releases/download/v1.0.6%2B8/E-pati-VET-1.0.6.dmg" sparkle:os="macos" sparkle:edSignature="RV43K5C1b7O0pdn3H98G4/y+MuyH8K23xFpu9aTMoOfPCQMZhJO2G9y89HXsf4r9WRIOB2xyrCa9RX8cOOyuAg==" length="35137491" type="application/octet-stream"></enclosure>
     </item>
+    <item>
+      <title>Version 1.0.6</title>
+      <sparkle:releaseNotesLink>https://github.com/Emesis-Solutions/pati-vet-releases/releases/tag/v1.0.6%2B8</sparkle:releaseNotesLink>
+      <pubDate>Sun, 31 May 2026 03:06:20 UTC</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+      <enclosure url="https://github.com/Emesis-Solutions/pati-vet-releases/releases/download/v1.0.6%2B8/pati-vet-1.0.6-windows-x64-setup.exe" sparkle:os="windows" sparkle:dsaSignature="MDwCHGwf72M8jOckCMXHm1Cb4yr6VCaBKWERPwyFqHwCHGtbI7yEDe50PZCQkaEYfFdUONXG7tK5S+CKkug=" length="14570881" type="application/octet-stream"></enclosure>
+    </item>
   </channel>
 </rss>
